@@ -1,0 +1,37 @@
+
+
+body {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: 700;
+	text-transform: capitalize;
+}
+button {
+	font-size: 1.2em;
+	padding: 5px 10px;
+	background-color: #0c6190;
+	border: none;
+	color: white;
+	margin-left: 25px;
+}
+button:hover {
+	background-color: #37a9e8;
+}
+ul {
+	width: 40%;
+	height: auto;
+}
+
+ul li {
+	padding-top: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid grey;
+	font-size: 1.1em;
+}
+.active {
+	background-color: #fbe894;
+}
